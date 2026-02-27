@@ -47,7 +47,6 @@ Todos os exercícios estão localizados dentro da pasta `src`, onde cada arquivo
 Os exercícios presentes neste repositório envolvem:
 
 - ✔️ Estruturas condicionais (if / else)
-- ✔️ Estruturas de repetição (for / while / do-while)
 - ✔️ Variáveis e tipos primitivos
 - ✔️ Métodos e organização de código
 - ✔️ Classes e Objetos
